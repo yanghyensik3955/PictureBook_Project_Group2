@@ -1,8 +1,7 @@
+"text"@"The Little Mermaid"@"Hans Christian Andersen"
 
 
-
-
-THE LITTLE MERMAID
+"THE LITTLE MERMAID
 
 
 Far out in the wide sea,--where the water is blue as the loveliest
@@ -878,4 +877,4 @@ and every tear we shed adds a day to our time of probation.’
 
 [Illustration]
 
-[Illustration]"@"The Three Little Pigs"@"Joseph Jacobs"
+[Illustration]"@"The Little Mermaid"@"Hans Christian Andersen"
