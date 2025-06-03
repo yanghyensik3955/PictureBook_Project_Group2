@@ -1,8 +1,7 @@
+"text"@"The Ugly Duckling"@"Hans Christian Andersen"
 
 
-
-
-THE UGLY DUCKLING
+"THE UGLY DUCKLING
 
 
 It was beautiful in the country, it was summer-time; the wheat was
@@ -375,4 +374,4 @@ the sun shone so warmly and brightly--he shook his feathers, stretched
 his slender neck, and in the joy of his heart said, ‘How little did I
 dream of so much happiness when I was the ugly, despised duckling!’
 
-[Illustration]
+[Illustration]"@"The Ugly Duckling"@"Hans Christian Andersen"
