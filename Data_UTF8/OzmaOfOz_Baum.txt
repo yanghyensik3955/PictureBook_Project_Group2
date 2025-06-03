@@ -1,7 +1,7 @@
 "text"@"Ozma of Oz"@"Lyman Frank Baum"
 
 
-The Girl in the Chicken Coop
+"The Girl in the Chicken Coop
 
 
 [Illustration]
@@ -174,4 +174,4 @@ and she did not feel at all cold. So she sat down in a corner of the
 coop, leaned her back against the slats, nodded at the friendly stars
 before she closed her eyes, and was asleep in half a minute.
 
-[Illustration]
+[Illustration]"@"Ozma of Oz"@"Lyman Frank Baum"
